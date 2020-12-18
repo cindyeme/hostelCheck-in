@@ -28,7 +28,7 @@ profile, search for Hostel and book an appointment once they find a suitable one
 **THE FRONT-END DEVELOPERS**
 
 Content/Project features based on User case 1: Translate the mock-up to HTML, CSS and JavaScript 
-code/pages. No JavaScript framework is needed. 
+code/pages.
  
 **THE BACK-END DEVELOPERS**
 
